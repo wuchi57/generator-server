@@ -1,0 +1,17 @@
+{
+  "name": "generator-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wuchi57/generator-server.git",
+  "author": "wuchi <wuchi57@outlook.com>",
+  "license": "MIT",
+  "keywords": [
+    "yeoman",
+    "node",
+    "project template",
+    "express"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.8.0"
+  }
+}

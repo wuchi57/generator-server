@@ -4,7 +4,6 @@ module.exports = class extends Generator {
     writing () {
         const templates = [
             'app.js',
-            'README.md',
             'package.json',
             'router/404.js',
             'router/auth.js',
